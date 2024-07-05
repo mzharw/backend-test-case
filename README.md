@@ -1,3 +1,7 @@
+- Run migration : npm run migration:run
+- Unit test : npm run test
+- Swagger : http://localhost:3000/api
+
 # Backend Test Case
 
 ## Entities
